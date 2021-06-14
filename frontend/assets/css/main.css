@@ -1,0 +1,40 @@
+.produto-nome {
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.produto-frete {
+    font-weight: 500;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    color: rgb(5, 172, 69)
+}
+
+.produto-apartir {
+    margin-bottom: 0;
+    font-size: 14px;
+    color: rgb(122, 122, 122);
+}
+
+.produto-preco {
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 0;
+}
+
+.produto-parcela {
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+}
+
+.fab {
+    font-size: 30px;
+    color: #212121;
+    margin: 0 7px;
+    padding: 12px;
+}
